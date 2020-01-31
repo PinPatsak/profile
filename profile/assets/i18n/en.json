@@ -1,0 +1,22 @@
+{
+  "Name": "Patsak chompan",
+  "Email": "Patsak.cho@gmail.com",
+  "Email2": "pins.chomchanphan@gmail.com",
+  "DOB": "11-12-1989",
+  "Address": "Chiang Mai, Thailand",
+  "MAbout": "About",
+  "MServices": "Services",
+  "MHome": "Home",
+  "MExperience" : "Exoerience",
+  "MPortfolio" : "Protfolio",
+  "MBlogs" : "Blog",
+  "MContact": "Contact",
+  "HeaderServices":"WHAT I DO",
+  "TitleServices":"MY <span>SERVICES</span>",
+  "HeaderExperience":"WHAT I DID",
+  "TitleExperience":"MY <span>EXPERIENCE</span>",
+  "HeaderBlogs":"Blogs",
+  "TitleBlogs":"My <span>Blogs</span>",
+  "HeaderContact":"Contact",
+  "TitleContact":"GET <span>IN TOUCH WITH ME</span>"
+}
