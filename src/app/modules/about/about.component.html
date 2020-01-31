@@ -1,0 +1,21 @@
+<div id="about" class="about row">
+    <div class="col-md-6 about-right">
+
+    </div>
+    <div class="col-md-6 about-left">
+        <owl-carousel [options]="SlideOptions" [items]="items" [carouselClasses]="['owl-theme', 'sliding']">
+            <div class="item" *ngFor="let i of items">
+                <div class="about-left-grid">
+                    <h2>{{i.header}}</h2>
+                    <p [innerHTML]="i.description"></p>
+                    <!-- <ul>
+                        <li><a class="a-btn-a scroll" href="#port">My Work</a></li>
+                        <li><a class="a-btn-h scroll" href="#contact">Hire Me</a></li>
+                    </ul> -->
+                </div>
+            </div>
+        </owl-carousel>
+    </div>
+
+    <div class="clearfix"> </div>
+</div>

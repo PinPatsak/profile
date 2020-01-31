@@ -1,0 +1,22 @@
+{
+  "Name": "พรระน์สักธ์ จอมพันธ์",
+  "Email": "Patsak.cho@gmail.com",
+  "Email2": "pins.chomchanphan@gmail.com",
+  "DOB": "11-12-1989",
+  "Address": "เชียงใหม่, ไทย",
+  "MAbout": "เกี่ยวกับ",
+  "MServices": "บริการ",
+  "MHome": "หน้าหลัก",
+  "MExperience" : "ประสบการณ์",
+  "MPortfolio" : "ผลงาน",
+  "MBlogs" : "บล็อก",
+  "MContact": "ติดต่อ",
+  "HeaderServices":"สิ่งที่คุณจะได้รับ",
+  "TitleServices":"<span>บริการ</span>",
+  "HeaderExperience":"เส้นทางการทำงาน",
+  "TitleExperience":"<span>ประสบการณ์</span>",
+  "HeaderBlogs":"บล็อก",
+  "TitleBlogs":"<span>บล็อก</span>",
+  "HeaderContact":"ติดต่อ",
+  "TitleContect":"<span>ติดต่อกับฉัน</span>"
+}
