@@ -18,7 +18,7 @@ export class AboutComponent implements OnInit {
         {
             header: `About me`,
             description: `Hi I'm pin. I tend to view myself as a generalist since I try not to focus on any given technology.
-             My skills range from I have worked with .Net Code, CQRS, N-Tier, Web API, C#, Angular, CSS, HTML, JavaScript, MVC, and jQuery.
+             My skills range from I have worked with .Net Code,Clean Architecture, CQRS, N-Tier, Web API, C#, Angular,React JS, CSS, HTML, JavaScript, MVC, and jQuery.
              I have been exposed to a wide variety of technologies in my career and consider myself to be very adaptable.`
 
         },

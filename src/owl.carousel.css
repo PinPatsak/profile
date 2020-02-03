@@ -24,14 +24,14 @@
 }
 
 .owl-next {
-    background: url("/assets/images/right-arrow.png") no-repeat 0px 0px;
+    background: url("./assets/images/right-arrow.png") no-repeat 0px 0px;
     position: absolute;
     right: 0%;
     top: 57%;
 }
 
 .owl-prev {
-    background: url("/assets/images/left-arrow.png") no-repeat 0px 0px;
+    background: url("./assets/images/left-arrow.png") no-repeat 0px 0px;
     position: absolute;
     left: -2%;
     top: 57%;
